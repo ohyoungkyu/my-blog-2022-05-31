@@ -7,6 +7,7 @@ function AboutPage() {
       <title>자기소개</title>
       <h1>자기소개 페이지 입니다.</h1>
       <Link to="https://converse.co.kr/index.html">컨버스 카테고리</Link>
+      <Link to="http://localhost:8000/test">test</Link>
     </main>
   );
 }
