@@ -5,6 +5,7 @@
 }
 .heading {
   color: rebeccapurple;
+  text-align: center;
 }
 .nav-links {
   display: flex;
@@ -23,4 +24,5 @@
   color: gray;
   font-weight: 700;
   margin: 3rem 0;
+  text-align: center;
 }
